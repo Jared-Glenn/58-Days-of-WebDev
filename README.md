@@ -1,8 +1,8 @@
-# 58_Days_of_WebDev
+# 58 Days of WebDev
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-[Day 1 - Developer Tools](https://github.com/Jared-Glenn/58_Days_of_WebDev/tree/main/Days%201-29/001_developer_tools)
+## [Day 1 - Developer Tools](https://github.com/Jared-Glenn/58_Days_of_WebDev/tree/main/Days%201-29/001_developer_tools)
 * Practiced accessing the html in a live webpage.
 * Prepared for the Challenge:
 * Prepared software and hardware for the class and projects.
