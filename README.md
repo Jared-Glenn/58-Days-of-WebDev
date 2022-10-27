@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 4 - Personal Site v3 (Introduction to CSS)](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/004_personal_site_v3)
+* Began experimenting with CSS properties.
+* Implemented a color scheme in the website's design.
+* Improved the aesthetic of the site by rounding the portrait and styling the hr elements.
+
+<img src="https://user-images.githubusercontent.com/38020231/198229922-36293b0d-cdc0-4d64-8955-6e4b4ac65783.png" width="800">
+
+
+
 ## [Day 3 - Personal Site v2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/003_personal_site_v2)
 * Updated the site code to include several tables for organization.
 * Improved the appearance of the main page.
