@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 5 - Personal Site v4 (Prototype: Work in Progress)](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/005_personal_site_v4)
+* Prototype: Not Finished.
+* Day 5 is the first half of a module working with display, position, and the box model.
+* Implements a Favicon into the webpage among other elements.
+* The picture is for documentation, and shows my progress halfway through designing the elements of a new version of my site.
+
+<img src="https://user-images.githubusercontent.com/38020231/198524375-adb5d595-82c2-4dce-8092-c44b3adc553c.png" width="400">
+
+
+
 ## [Day 4 - Personal Site v3 (Introduction to CSS)](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/004_personal_site_v3)
 * Began experimenting with CSS properties.
 * Implemented a color scheme in the website's design.
