@@ -1,0 +1,38 @@
+/* DARK_BLUE = #001524
+MID_BLUE = #15616d
+TAN = #ffecd1
+ORANGE = #ff7d00
+BROWN = #78290f */
+
+
+body {
+    background-color: #ffecd1;
+}
+
+h1 {
+    color: #15616d;
+}
+
+h3 {
+    color: #15616d;
+}
+
+hr {
+    background-color: #ffecd1;
+    border-style: none;
+    border-top: dotted 5px #15616d;
+    height: 2px;
+    width: 5%;
+}
+
+img {
+    border-radius: 100%;
+}
+
+a {
+    color: #78290f;
+}
+
+a:hover {
+    color: #ff7d00;
+}
