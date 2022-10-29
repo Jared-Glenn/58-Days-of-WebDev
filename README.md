@@ -10,7 +10,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 
 <img src="https://user-images.githubusercontent.com/38020231/198856096-d8ed956c-2dda-4b49-9ce7-b5cb28fa53d4.png" width="490">  <img src="https://user-images.githubusercontent.com/38020231/198856094-ec7a8757-f433-4f4b-acb1-39cf72807949.png" width="500">
 
-
+<p>
 
 ## [Day 6 - Personal Site v5](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/006_personal_site_v5)
 * Finished design and layout of site.
