@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * Added a general style with font, color, and icons.
 * Added eye-catching aspects, like the falling leaves and staggered text styles.
 
-<img src="https://user-images.githubusercontent.com/38020231/198816664-810ab595-f841-43f4-aedd-babf0d0746bd.png" width="500">  <img src="https://user-images.githubusercontent.com/38020231/198816666-8300bc60-838c-48fc-acb0-c6733d39effe.png" width="500">
+<img src="https://user-images.githubusercontent.com/38020231/198816664-810ab595-f841-43f4-aedd-babf0d0746bd.png" width="500">  <img src="https://user-images.githubusercontent.com/38020231/198816666-8300bc60-838c-48fc-acb0-c6733d39effe.png" width="480">
 <img src="https://user-images.githubusercontent.com/38020231/198816670-92760554-a09f-4826-a40c-fca242a15a23.png" width="600">
 
 
