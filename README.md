@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 7 - Tindog v1 (PROTOTYPE)](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/007_tindog_v1)
+* Starting work with Bootstrap and Balsamiq (to wireframe and create responsive websites).
+* Created a wireframe of Tindog (a parody site to Tinder).
+* Began working on the layout for Tindog, as seen below.
+* NOTE: This is a Work in Progress.
+
+<img src="https://user-images.githubusercontent.com/38020231/198856094-ec7a8757-f433-4f4b-acb1-39cf72807949.png" width="500">  <img src="https://user-images.githubusercontent.com/38020231/198856096-d8ed956c-2dda-4b49-9ce7-b5cb28fa53d4.png" width="490">
+
+
+
 ## [Day 6 - Personal Site v5](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/006_personal_site_v5)
 * Finished design and layout of site.
 * Added a general style with font, color, and icons.
