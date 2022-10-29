@@ -8,7 +8,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * Began working on the layout for Tindog, as seen below.
 * NOTE: This is a Work in Progress.
 
-<img src="https://user-images.githubusercontent.com/38020231/198856096-d8ed956c-2dda-4b49-9ce7-b5cb28fa53d4.png" width="490" padding-bottom=10px>  <img src="https://user-images.githubusercontent.com/38020231/198856094-ec7a8757-f433-4f4b-acb1-39cf72807949.png" width="500">
+<img src="https://user-images.githubusercontent.com/38020231/198856096-d8ed956c-2dda-4b49-9ce7-b5cb28fa53d4.png" width="490" padding-bottom=100px>  <img src="https://user-images.githubusercontent.com/38020231/198856094-ec7a8757-f433-4f4b-acb1-39cf72807949.png" width="500">
 
 
 
