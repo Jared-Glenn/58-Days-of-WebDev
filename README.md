@@ -2,11 +2,12 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 8 - Tindog v2]
+## [Day 8 - Tindog v2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/008_tindog_v2)
 * Completed the top two sections of the page with responsive design.
 * Added hover effects for a better user experience.
+* Carefully spaced and colored the content to direct user attention as intended.
 
-<img src="https://user-images.githubusercontent.com/38020231/198918105-a141a670-e673-4e11-8d25-94509e99f7f2.png" width="500">
+<img src="https://user-images.githubusercontent.com/38020231/198918835-e5c4f754-e74a-45b6-8ccf-3f9e37ce33c3.png" width="500">
 
 
 
