@@ -2,7 +2,7 @@
 /* Navbar */
 .navbar {
     padding: 0;
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
 }
 
 .navbar-brand {
@@ -27,6 +27,7 @@ body {
 h1 {
     font-size: 3rem;
     line-height: 1.5;
+    padding-top: 5rem;
 }
 
 #title {
