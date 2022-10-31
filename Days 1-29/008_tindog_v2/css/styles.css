@@ -1,0 +1,69 @@
+
+/* Navbar */
+.navbar {
+    padding: 0;
+    padding-bottom: 4rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-family: "Ubuntu";
+}
+
+.nav-link {
+    font-size: 1.25rem;
+    margin-left: 2rem;
+}
+
+/* Top Area */
+#title {
+    background-color: #ff4c68;
+}
+
+body {
+    font-family: 'Montserrat-Black', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title {
+    color: white;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.btn {
+    margin-left: 1rem;
+}
+
+.iphone {
+    width: 18rem;
+    transform: rotate(22deg);
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Selling Points */
+#features {
+    text-align: center;
+}
+
+.selling-icon {
+    color: #ef8172;
+    font-size: 3rem;
+    padding-top: 4rem;
+}
+
+.selling-icon:hover {
+    color:#ff4c68;
+}
+
+.feature-text {
+    padding: 0.4rem 6rem 6rem 6rem;
+}
