@@ -1,0 +1,168 @@
+
+/* Navbar */
+.navbar {
+    padding: 0;
+    padding-bottom: 2rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-family: "Ubuntu";
+}
+
+.nav-link {
+    font-size: 1.25rem;
+    margin-left: 2rem;
+}
+
+/* Top Area */
+#title {
+    background-color: #ff4c68;
+}
+
+body {
+    font-family: 'Montserrat-Black', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-top: 5rem;
+}
+
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    padding: 0 7%;
+}
+
+#title {
+    color: white;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+    padding-bottom: 12rem;
+}
+
+.btn {
+    margin-left: 1rem;
+}
+
+.iphone {
+    width: 18rem;
+    transform: rotate(22deg);
+    margin: auto;
+    padding-top: 0rem;
+    padding-bottom: 2rem;
+    position: absolute;
+    z-index: 1;
+}
+
+@media (max-width: 991px) {
+    .iphone {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+@media (max-width: 991px) {
+    #title {
+        text-align: center;
+
+    }
+}
+
+
+/* Features */
+#features {
+    text-align: center;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-list {
+    padding: 9rem 10rem;
+}
+
+.selling-icon {
+    color: #ef8172;
+    font-size: 3rem;;
+}
+
+.selling-icon:hover {
+    color:#ff4c68;
+}
+
+.feature-text {
+    padding: 0.4rem 3rem;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.profile-pic {
+    width: 15%;
+    border-radius: 100%;
+    padding: 2%;
+}
+
+.carousel-item {
+    padding:7% 15%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px;
+}
+
+/* Pricing */
+
+#pricing {
+    padding: 5rem;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+
+/* Call To Action */
+
+#cta {
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 5rem 18rem;
+}
+
+.call-to-action {
+    color: white;
+    font-size: 3rem;
+    font-family: "Montserrat Black";
+    padding-bottom: 3rem;
+}
+
+.google-play {
+    background-color: white;
+    color: black;
+}
+
+#footer {
+    background-color: white;
+    text-align: center;
+    padding: 4rem;
+    color: grey;
+}
