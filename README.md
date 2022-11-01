@@ -8,6 +8,8 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * Included a Call to Action with more download options.
 * Added a contact section in the footer of the page.
 
+<img src="https://user-images.githubusercontent.com/38020231/199184692-1af25dac-1060-452c-843d-7bdf4b76ac13.png" width="490">  <img src="https://user-images.githubusercontent.com/38020231/199184700-7a5f803b-e4e4-418d-bbe6-ff204a5fae3c.png" width="500">
+
 
 
 ## [Day 8 - Tindog v2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/008_tindog_v2)
