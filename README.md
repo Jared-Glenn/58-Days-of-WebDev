@@ -2,6 +2,14 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 9 - Tindog v3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/009_tindog_v3)
+* Added a carousel for testimonials from users.
+* Added cards for pricing and ease of understanding.
+* Included a Call to Action with more download options.
+* Added a contact section in the footer of the page.
+
+
+
 ## [Day 8 - Tindog v2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/008_tindog_v2)
 * Completed the top two sections of the page with responsive design.
 * Added hover effects for a better user experience.
