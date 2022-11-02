@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 10 - Tindog Refactored](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/010_tindog_refactored)
+* Practiced with refactoring CSS code.
+* Learned conventions for uses of classes, ids, and tags.
+* Used additional classes to help make the code more readable and succinct.
+
+<img src="https://user-images.githubusercontent.com/38020231/199390622-96f382d4-c818-48d7-b19b-e2038d1b4fd9.png" width="490">
+
+
+
 ## [Day 9 - Tindog v3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/009_tindog_v3)
 * Added a carousel for testimonials from users.
 * Added cards for pricing and ease of understanding.
