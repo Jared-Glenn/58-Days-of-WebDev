@@ -1,0 +1,166 @@
+body {
+    font-family: 'Montserrat-Black', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-top: 5rem;
+}
+
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    padding: 0 7%;
+}
+
+.light-section {
+    background-color: white;
+    color: black;
+}
+
+.dark-section {
+    background-color: #ff4c68;
+    color: white;
+}
+
+
+/* Navbar */
+.navbar {
+    padding: 0;
+    padding-bottom: 2rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-family: "Ubuntu";
+}
+
+.nav-link {
+    font-size: 1.25rem;
+    margin-left: 2rem;
+}
+
+/* Title Area */
+
+
+#title {
+    text-align: left;
+}
+
+.container-fluid {
+    padding: 7% 15%;
+    padding-bottom: 12rem;
+}
+
+.btn {
+    margin-left: 1rem;
+}
+
+.iphone {
+    width: 18rem;
+    transform: rotate(22deg);
+    margin: auto;
+    padding-top: 0rem;
+    padding-bottom: 2rem;
+    position: absolute;
+    z-index: 1;
+}
+
+@media (max-width: 991px) {
+    .iphone {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+@media (max-width: 991px) {
+    #title {
+        text-align: center;
+
+    }
+}
+
+
+/* Features */
+#features {
+    position: relative;
+    z-index: 1;
+}
+
+.feature-list {
+    padding: 9rem 10rem;
+}
+
+.selling-icon {
+    color: #ef8172;
+    font-size: 3rem;;
+}
+
+.selling-icon:hover {
+    color:#ff4c68;
+}
+
+.feature-text {
+    padding: 0.4rem 3rem;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+    background-color: #ef8172;
+}
+
+.profile-pic {
+    width: 15%;
+    border-radius: 100%;
+    padding: 2%;
+}
+
+.carousel-item {
+    padding:7% 15%;
+}
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px;
+}
+
+/* Pricing */
+
+#pricing {
+    padding: 5rem;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+
+/* Call To Action */
+
+#cta {
+    padding: 5rem 18rem;
+}
+
+.call-to-action {
+    font-size: 3rem;
+    font-family: "Montserrat Black";
+    padding-bottom: 3rem;
+}
+
+.google-play {
+    background-color: white;
+    color: black;
+}
+
+#footer {
+    padding: 4rem;
+    color: grey;
+}
