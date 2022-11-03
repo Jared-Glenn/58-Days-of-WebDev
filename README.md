@@ -2,6 +2,20 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 11 - Web Design]
+* Today, we studied the ins and outs of general web design, including:
+  - Color Theory
+  - Typography
+  - UI Design
+  - UX Design
+  - Ethical Design
+* Created a mockup of a hotel room on Canva to practice these principles.
+
+<img src="https://user-images.githubusercontent.com/38020231/199662945-3ca888fb-14d7-4817-a936-3ae52e0cef8f.png" width="500">  <img src="https://user-images.githubusercontent.com/38020231/199662954-ca98b6a2-8c38-4988-b894-38e2c95b3357.png" width="490">
+<img src="https://user-images.githubusercontent.com/38020231/199662965-9714f11c-d655-4d3c-99c5-5ff8180ea1fa.png" width="800">
+
+
+
 ## [Day 10 - Tindog Refactored](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/010_tindog_refactored)
 * Practiced with refactoring CSS code.
 * Learned conventions for uses of classes, ids, and tags.
