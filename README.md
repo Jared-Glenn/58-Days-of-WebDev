@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 11 - Web Design]
+## [Day 11 - Web Design](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/011_web_design)
 * Today, we studied the ins and outs of general web design, including:
   - Color Theory
   - Typography
