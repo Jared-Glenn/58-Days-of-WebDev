@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * Program informs the user how many characters have been used and how many more are available (using the older, 140 character model).
 * The program also reduces the length of tweets that go over the 140 character limit and returns them to the user.
 
-<img src="https://user-images.githubusercontent.com/38020231/199884901-619b74b1-588f-4bc9-b5fd-a5caff62d68f.png" width="400"> <img src="https://user-images.githubusercontent.com/38020231/199884916-4c0ede2f-8590-43cf-8091-ff7ac3d579f9.png" width="600">
+<img src="https://user-images.githubusercontent.com/38020231/199884901-619b74b1-588f-4bc9-b5fd-a5caff62d68f.png" width="400"> <img src="https://user-images.githubusercontent.com/38020231/199884916-4c0ede2f-8590-43cf-8091-ff7ac3d579f9.png" width="500">
 
 
 
