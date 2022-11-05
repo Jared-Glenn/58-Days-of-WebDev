@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 13 - BMI Calculator]
+* Created several programs with JavaScript, included in the code.
+* The final program is a calculator for Body Mass Index, which is calculated by your weight in kilograms and your height in meters.
+* The user is prompted to input both values and the BMI value is given (rounded to a whole value).
+
+<img src="https://user-images.githubusercontent.com/38020231/200104308-0f7ade03-33d1-4332-92f1-423e2a2bae58.png" width="450"> <img src="https://user-images.githubusercontent.com/38020231/200104309-1b346cff-937c-4a77-a05d-1bb0b052e535.png" width="420">
+
+
+
 ## [Day 12 - Twitter Text Counter](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/012_twitter_text_counter)
 * Created a program to count the characters in a tweet.
 * Program informs the user how many characters have been used and how many more are available (using the older, 140 character model).
