@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 14 - Fibonacci Code]
+* Created several programs, including a song-singer, random person generator, and FizzBuzz game maker.
+* The main program is a Fibonacci Number Generator, which generates the requested number of digits in the Fibonacci Sequence.
+* This version of the sequence begins with 0 (some versions of the sequence begin with 1 - both are acceptable).
+
+<img src="https://user-images.githubusercontent.com/38020231/200142889-ad678147-7ca7-44af-aa79-d8d3144f9fad.png" width="450"> <img src="https://user-images.githubusercontent.com/38020231/200142890-dc436fb8-5d7f-49ff-b77c-46826e53f745.png" width="420">
+
+
+
 ## [Day 13 - BMI Calculator](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/013_bmi_calculator)
 * Created several programs with JavaScript, included in the code.
 * The final program is a calculator for Body Mass Index, which is calculated by your weight in kilograms and your height in meters.
