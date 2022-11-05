@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 14 - Fibonacci Code]
+## [Day 14 - Fibonacci Code](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/014_fibonacci_code)
 * Created several programs, including a song-singer, random person generator, and FizzBuzz game maker.
 * The main program is a Fibonacci Number Generator, which generates the requested number of digits in the Fibonacci Sequence.
 * This version of the sequence begins with 0 (some versions of the sequence begin with 1 - both are acceptable).
