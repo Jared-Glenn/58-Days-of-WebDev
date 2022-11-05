@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * The final program is a calculator for Body Mass Index, which is calculated by your weight in kilograms and your height in meters.
 * The user is prompted to input both values and the BMI value is given (rounded to a whole value).
 
-<img src="https://user-images.githubusercontent.com/38020231/200104308-0f7ade03-33d1-4332-92f1-423e2a2bae58.png" width="400"> <img src="https://user-images.githubusercontent.com/38020231/200104309-1b346cff-937c-4a77-a05d-1bb0b052e535.png" width="475">
+<img src="https://user-images.githubusercontent.com/38020231/200104308-0f7ade03-33d1-4332-92f1-423e2a2bae58.png" width="475"> <img src="https://user-images.githubusercontent.com/38020231/200104309-1b346cff-937c-4a77-a05d-1bb0b052e535.png" width="400">
 
 
 
