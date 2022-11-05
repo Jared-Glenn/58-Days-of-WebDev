@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 13 - BMI Calculator]
+## [Day 13 - BMI Calculator](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/013_bmi_calculator)
 * Created several programs with JavaScript, included in the code.
 * The final program is a calculator for Body Mass Index, which is calculated by your weight in kilograms and your height in meters.
 * The user is prompted to input both values and the BMI value is given (rounded to a whole value).
