@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 15 - The DOM Challenge]
+* Learned about the DOM today and how to manipulate HTML and CSS with JavaScript and the document.
+* No full program was created today, but several manual alterations are displayed below.
+* Notice the changes via .innerHTML, inline CSS changes, and changes through class assignment.
+
+<img src="https://user-images.githubusercontent.com/38020231/200250274-3e97fd97-d444-4684-b9b7-674b979e99ad.png" width="150"> --------------->    <img src="https://user-images.githubusercontent.com/38020231/200250284-58b86659-5bde-4637-8db5-d8dac99fbee9.png" width="400">
+
+
+
 ## [Day 14 - Fibonacci Code](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/014_fibonacci_code)
 * Created several programs, including a song-singer, random person generator, and FizzBuzz game maker.
 * The main program is a Fibonacci Number Generator, which generates the requested number of digits in the Fibonacci Sequence.
