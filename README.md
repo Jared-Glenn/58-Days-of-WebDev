@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 15 - The DOM Challenge]
+## [Day 15 - The DOM Challenge](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/015_the_dom_challenge)
 * Learned about the DOM today and how to manipulate HTML and CSS with JavaScript and the document.
 * No full program was created today, but several manual alterations are displayed below.
 * Notice the changes via .innerHTML, inline CSS changes, and changes through class assignment.
