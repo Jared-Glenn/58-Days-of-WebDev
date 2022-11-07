@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * No full program was created today, but several manual alterations are displayed below.
 * Notice the changes via .innerHTML, inline CSS changes, and changes through class assignment.
 
-<img src="https://user-images.githubusercontent.com/38020231/200250274-3e97fd97-d444-4684-b9b7-674b979e99ad.png" width="450"> <img src="https://user-images.githubusercontent.com/38020231/200250284-58b86659-5bde-4637-8db5-d8dac99fbee9.png" width="400">
+<img src="https://user-images.githubusercontent.com/38020231/200250274-3e97fd97-d444-4684-b9b7-674b979e99ad.png" width="150"> <img src="https://user-images.githubusercontent.com/38020231/200250284-58b86659-5bde-4637-8db5-d8dac99fbee9.png" width="400">
 
 
 
