@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * When the "Roll 'em" button is pressed, the dice are rolled and compared, declaring one of the players the winner.
 * This short program may be used to settle small (or large) disagreements, and it looks pretty nice too.
 
-<img src="https://user-images.githubusercontent.com/38020231/200487581-0c632cd1-9838-4b34-b251-3ecf9b0b8525.png" width="410"> <img src="https://user-images.githubusercontent.com/38020231/200487585-673f1cd3-da4a-4949-aab5-e2a26cd817ff.png" width="430">
+<img src="https://user-images.githubusercontent.com/38020231/200487581-0c632cd1-9838-4b34-b251-3ecf9b0b8525.png" width="400"> <img src="https://user-images.githubusercontent.com/38020231/200487585-673f1cd3-da4a-4949-aab5-e2a26cd817ff.png" width="440">
 
 
 
