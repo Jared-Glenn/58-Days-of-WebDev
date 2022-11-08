@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 16 - Dicee]
+## [Day 16 - Dicee](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/016_dicee)
 * Created a web app to generate random dice for two players.
 * When the "Roll 'em" button is pressed, the dice are rolled and compared, declaring one of the players the winner.
 * This short program may be used to settle small (or large) disagreements, and it looks pretty nice too.
