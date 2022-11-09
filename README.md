@@ -2,12 +2,12 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 17 - Drum Kit]
+## [Day 17 - Drum Kit](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/017_drum_kit)
 * Created a website capable of logging both clicks and keystrokes in order to play the desired sounds.
 * In addition to the sound played on press, a short animation plays, displaying the press happening for the user.
 * In short, the user may play a drum set with any combination of keys and clicks to achieve the desired sound.
 
-<img src="https://user-images.githubusercontent.com/38020231/200762374-a58eb395-8e07-485d-a16f-fdac70eab02b.png" width="600">
+<img src="https://user-images.githubusercontent.com/38020231/200762374-a58eb395-8e07-485d-a16f-fdac70eab02b.png" width="700">
 
 
 
