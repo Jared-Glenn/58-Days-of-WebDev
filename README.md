@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 17 - Drum Kit]
+* Created a website capable of logging both clicks and keystrokes in order to play the desired sounds.
+* In addition to the sound played on press, a short animation plays, displaying the press happening for the user.
+* In short, the user may play a drum set with any combination of keys and clicks to achieve the desired sound.
+
+<img src="https://user-images.githubusercontent.com/38020231/200762374-a58eb395-8e07-485d-a16f-fdac70eab02b.png" width="600">
+
+
+
 ## [Day 16 - Dicee](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/016_dicee)
 * Created a web app to generate random dice for two players.
 * When the "Roll 'em" button is pressed, the dice are rolled and compared, declaring one of the players the winner.
