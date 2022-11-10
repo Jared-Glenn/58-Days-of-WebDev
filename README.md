@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 18 - jQuery Sites]
+## [Day 18 - jQuery Sites](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/018_jquery_sites)
 * Practiced with jQuery and used various functions available through that library.
 * Some of my practice functionality is displayed below.
 * The following simple web app converts typed letters into the H1, which can be resized with any of the "Click Me" buttons on the screen.
