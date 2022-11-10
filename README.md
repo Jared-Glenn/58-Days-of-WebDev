@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * Some of my practice functionality is displayed below.
 * The following simple web app converts typed letters into the H1, which can be resized with any of the "Click Me" buttons on the screen.
 
-<img src="https://user-images.githubusercontent.com/38020231/200995567-db667e94-1312-4fd6-9f9d-576f69a7067b.gif" width="700">
+<img src="https://user-images.githubusercontent.com/38020231/200995567-db667e94-1312-4fd6-9f9d-576f69a7067b.gif" width="500">
 
 
 
