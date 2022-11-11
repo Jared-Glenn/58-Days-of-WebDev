@@ -2,15 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 20 - Unix Commands]
+## [Day 20 - Unix Commands](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/020_unix_commands)
 * Installed the Hyper command line and Git Bash to begin working with these tools.
 * Learned and practiced commands, including:
-- cd
-- ls
-- pwd
-- mkdir
-- touch
-- rm
+-- cd
+-- ls
+-- pwd
+-- mkdir
+-- touch
+-- rm
 
 <img src="https://user-images.githubusercontent.com/38020231/201442404-d4509fc1-832d-4e81-b018-86bd235abb49.png" width="400">
 
