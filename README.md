@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 19 - Simon Game]
+## [Day 19 - Simon Game](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/019_simon_game)
 * Created a web app to recreate the game Simon.
 * Game may be started and restarted by pressing a key at applicable times.
 * The random color sequence is maintained and expanded as long as the human player keeps up.
