@@ -2,6 +2,20 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 20 - Unix Commands]
+* Installed the Hyper command line and Git Bash to begin working with these tools.
+* Learned and practiced commands, including:
+- cd
+- ls
+- pwd
+- mkdir
+- touch
+- rm
+
+<img src="https://user-images.githubusercontent.com/38020231/201442404-d4509fc1-832d-4e81-b018-86bd235abb49.png" width="400">
+
+
+
 ## [Day 19 - Simon Game](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/019_simon_game)
 * Created a web app to recreate the game Simon.
 * Game may be started and restarted by pressing a key at applicable times.
