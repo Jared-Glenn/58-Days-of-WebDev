@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 21 - Super Name Generator]
+* Created a program using Node.js that produces one Superhero name and one Supervillain name.
+* Made use of NPM modules to accomplish this effect.
+* Learned to access and alter files using Node, as well.
+
+<img src="https://user-images.githubusercontent.com/38020231/201498841-b145af04-ff13-4300-ba72-ffdc17c63e42.png" width="400">
+
+
+
 ## [Day 20 - Unix Commands](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/020_unix_commands)
 * Installed the Hyper command line and Git Bash to begin working with these tools.
 * Learned and practiced commands, including:
