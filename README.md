@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 22 - BMI Calculator with Routing]
+## [Day 22 - BMI Calculator with Routing](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/022_bmi_routing)
 * Worked with Node Express today to create a calculator web app and a BMI calculator web app.
 * Each of these is hosted on the same site and given different routes for access.
 * All of the calculations are handled server-side on the backend.
