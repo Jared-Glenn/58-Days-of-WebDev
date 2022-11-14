@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 22 - BMI Calculator with Routing]
+* Worked with Node Express today to create a calculator web app and a BMI calculator web app.
+* Each of these is hosted on the same site and given different routes for access.
+* All of the calculations are handled server-side on the backend.
+
+<img src="https://user-images.githubusercontent.com/38020231/201595407-e8e0e710-14f0-4a86-96ae-fad149f12c50.gif" width="700">
+
+
+
 ## [Day 21 - Super Name Generator](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/021_super_name_generator)
 * Created a program using Node.js that produces one Superhero name and one Supervillain name.
 * Made use of NPM modules to accomplish this effect.
