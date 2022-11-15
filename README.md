@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * This is accomplished through API integration and Node Express.
 * An icon of the current weather is also provided.
 
-<img src="https://user-images.githubusercontent.com/38020231/201807799-6c7c0aba-215f-40f8-972d-f94d76dc6e21.png" width="400">
+<img src="https://user-images.githubusercontent.com/38020231/201807799-6c7c0aba-215f-40f8-972d-f94d76dc6e21.png" width="300">
 <img src="https://user-images.githubusercontent.com/38020231/201807807-c956f4f5-9f9c-4915-a8aa-51cb4aa50c7e.png" width="400">
 
 
