@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 23 - Weather App]
+## [Day 23 - Weather App](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/023_api_weather)
 * Created a web app that will take a city name as provided by the user and return the current weather.
 * This is accomplished through API integration and Node Express.
 * An icon of the current weather is also provided.
