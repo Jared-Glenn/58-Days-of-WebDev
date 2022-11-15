@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 23 - Weather App]
+* Created a web app that will take a city name as provided by the user and return the current weather.
+* This is accomplished through API integration and Node Express.
+* An icon of the current weather is also provided.
+
+<img src="https://user-images.githubusercontent.com/38020231/201807799-6c7c0aba-215f-40f8-972d-f94d76dc6e21.png" width="400">
+<img src="https://user-images.githubusercontent.com/38020231/201807807-c956f4f5-9f9c-4915-a8aa-51cb4aa50c7e.png" width="400">
+
+
+
 ## [Day 22 - BMI Calculator with Routing](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/022_bmi_routing)
 * Worked with Node Express today to create a calculator web app and a BMI calculator web app.
 * Each of these is hosted on the same site and given different routes for access.
