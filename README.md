@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * Created a solid backend via Heroku and Node.
 * Managing the emails via the MailChimp API.
 
-<img src="https://user-images.githubusercontent.com/38020231/202173360-ba12571b-50e8-471a-b27d-827704a8387a.png" width="300">
+<img src="https://user-images.githubusercontent.com/38020231/202173360-ba12571b-50e8-471a-b27d-827704a8387a.png" width="500">
 <img src="https://user-images.githubusercontent.com/38020231/202173370-a2681157-77c6-4d62-a8e9-ff2dfc2d4fc9.png" width="400">
 
 
