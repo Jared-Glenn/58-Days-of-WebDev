@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 24 - Newsletter Signup]
+## [Day 24 - Newsletter Signup](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/024_newsletter_list)
 * Created a newsletter signup web page with a pleasing Bootstrap format.
 * Created a solid backend via Heroku and Node.
 * Managing the emails via the MailChimp API.
