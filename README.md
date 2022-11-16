@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 24 - Newsletter Signup]
+* Created a newsletter signup web page with a pleasing Bootstrap format.
+* Created a solid backend via Heroku and Node.
+* Managing the emails via the MailChimp API.
+
+<img src="https://user-images.githubusercontent.com/38020231/202173360-ba12571b-50e8-471a-b27d-827704a8387a.png" width="500">
+<img src="https://user-images.githubusercontent.com/38020231/202173370-a2681157-77c6-4d62-a8e9-ff2dfc2d4fc9.png" width="400">
+
+
+
 ## [Day 23 - Weather App](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/023_api_weather)
 * Created a web app that will take a city name as provided by the user and return the current weather.
 * This is accomplished through API integration and Node Express.
