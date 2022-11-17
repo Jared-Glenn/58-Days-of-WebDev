@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 25 - Git Challenge]
+## [Day 25 - Git Challenge](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/025_git_challenge)
 * Learned to use and work with local applications of Git.
 * Practiced applying commits and branches in the Learn Git Branching program.
 * Worked from the command line to make an undo changes to a theoretical novel.
