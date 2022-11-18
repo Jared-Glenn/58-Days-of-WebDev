@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+</head>
+
+<body>
+    <h1>
+        <%=kindOfDay%>
+    </h1>
+
+    <ul>
+        <% for (let i = 0; i < items.length; i++) { %>
+            <li><%=items[i]%></li>
+        <% } %>
+    </ul>
+
+    <main class="form-signin w-100 m-auto">
+        <form action='/' method="POST">
+
+            <div>
+                <input type="text" class="form-control top" placeholder="New Item" name="newItem" required autofocus>
+            </div>
+
+            <button class="w-100 btn btn-lg btn-primary" type="submit">Add</button>
+            <p class="mt-5 mb-3 text-muted">&copy; Jared Glenn 2022</p>
+        </form>
+    </main>
+
+
+
+
+
+    <!-- <% if (kindOfDay == "Thursday") { %>
+        <h1 style = "color: purple">It's a <%=kindOfDay%></h1>
+    <% } else { %>
+        <h1>It's a <%=kindOfDay%></h1>
+    <% } %> -->
+</body>
+
+</html>
