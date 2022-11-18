@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 26 - To-Do List (v.1)]
+* Created an application for storing and displaying a to-do list.
+* Items can be added to the list dynamically.
+* Data is able to be passed from the server and back to the server for situational template application.
+
+<img src="https://user-images.githubusercontent.com/38020231/202673729-2b3aac3c-05c6-4da1-98fa-4390b695fa5e.gif" width="500">
+
+
+
 ## [Day 25 - Git Challenge](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/025_git_challenge)
 * Learned to use and work with local applications of Git.
 * Practiced applying commits and branches in the Learn Git Branching program.
