@@ -7,7 +7,7 @@ Projects created during The Complete 2022 Web Development Bootcamp course with A
 * Also included functionality for additional lists to be created, as needed.
 * Made the project more modular by exporting both functions and styling.
 
-<img src="https://user-images.githubusercontent.com/38020231/202845407-9d6ef766-8a55-4c5f-bc88-36789d3a8f9f.gif" width="500">
+<img src="https://user-images.githubusercontent.com/38020231/202845407-9d6ef766-8a55-4c5f-bc88-36789d3a8f9f.gif" width="700">
 
 
 
