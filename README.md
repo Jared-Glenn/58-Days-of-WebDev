@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 27 - To-Do List v.2]
+## [Day 27 - To-Do List v.2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/027_todo_list_v2)
 * Updated the to do list with styling, checkboxes, and crossouts when an item is complete.
 * Also included functionality for additional lists to be created, as needed.
 * Made the project more modular by exporting both functions and styling.
