@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 28 - Blog Website v.1]
+* Created the basis of an attractive personal blog site, complete with about and contact pages.
+* Primarily uses EJS for its functionality and templates.
+* Can also access a compose page to create new blog entries.
+
+<img src="https://user-images.githubusercontent.com/38020231/202896267-755da099-bd16-429b-b281-c2f09f9f132f.gif" width="700">
+
+
+
 ## [Day 27 - To-Do List v.2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/027_todo_list_v2)
 * Updated the to do list with styling, checkboxes, and crossouts when an item is complete.
 * Also included functionality for additional lists to be created, as needed.
