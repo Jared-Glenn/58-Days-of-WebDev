@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 28 - Blog Website v.1]
+## [Day 28 - Blog Website v.1](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/028_blog_website)
 * Created the basis of an attractive personal blog site, complete with about and contact pages.
 * Primarily uses EJS for its functionality and templates.
 * Can also access a compose page to create new blog entries.
