@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 29 - Blog Website v.2]
+## [Day 29 - Blog Website v.2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%201-29/029_blog_website_v2)
 * Added connectivity to the blog and facilitated passing information from one part of the blog to the other.
 * Set up a structure for logging blog posts, their titles, and a short blurb of the post.
 * Set up dynamic get requests so my links and pages can connect to and display an unlimited number of blogs in the same template.
