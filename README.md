@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 30 - SQL Database]
+## [Day 30 - SQL Database](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/030_sql_databases)
 * Learned about SQL and NOSQL, as well as the benefits and drawbacks of both.
 * Practiced creating tables, joining tables, and deleting data.
 * Refreshed on commands and the SQL syntax.
