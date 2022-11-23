@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 31 - Mongo Databases]
+* Learned how to operate both MongoDB and MongoShell as well as how to use the necessary commands.
+* Practiced the CRUD methods for MongoDB.
+* Created a database and modified it by creating entries, updating them, and deleting them.
+
+<img src="https://user-images.githubusercontent.com/38020231/203498668-f6bc7474-c121-4871-9722-c9be665e2449.png" width="700">
+
+
+
 ## [Day 30 - SQL Database](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/030_sql_databases)
 * Learned about SQL and NOSQL, as well as the benefits and drawbacks of both.
 * Practiced creating tables, joining tables, and deleting data.
