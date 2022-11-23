@@ -1,0 +1,18 @@
+{
+    "_id": 2,
+    "name": "Pencil",
+    "price": 0.80,
+    "stock": 12,
+    "reviews": [
+        {
+            "authorName": "Sally",
+            "rating": 5, 
+            "review": "Sharpens really well!"
+        },
+        {
+            "authorName": "John",
+            "rating": 4, 
+            "review": "Excellent quality."
+        }
+    ]
+}
