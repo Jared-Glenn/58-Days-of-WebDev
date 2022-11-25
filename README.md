@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 33 - To Do List v.3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/033_todo_list_v3)
+## [Day 33 - To-Do List v.3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/033_todo_list_v3)
 * Updated and improved the To Do App so that it maintains a database of all created lists.
 * Uses Mongoose to organize and access the data.
 * Users can create multiple lists of various names that are all stored separately and can be added to or deleted from at will.
