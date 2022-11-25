@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 33 - To Do List v.3]
+* Updated and improved the To Do App so that it maintains a database of all created lists.
+* Uses Mongoose to organize and access the data.
+* Users can create multiple lists of various names that are all stored separately and can be added to or deleted from at will.
+
+<img src="https://user-images.githubusercontent.com/38020231/203987244-a30e96a5-6e63-4a39-adba-e3efa5e8fcd1.gif" width="700">
+
+
+
 ## [Day 32 - Mongoose Databases](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/032_mongoose_databases)
 * Practiced working with Mongoose databases.
 * Created databases, reviewed the updated documentations, and learned how to integrate collections.
