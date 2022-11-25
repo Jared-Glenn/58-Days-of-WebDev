@@ -2,9 +2,9 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 34 - To-Do List v4]
+## [Day 34 - To-Do List v4](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/034_todo_list_v4)
 * Web deployment of the To-Do App.
-* Use the live app [here[(https://infinite-plateau-90326.herokuapp.com/). Open a new list by adding a "/name" extension to the end of the web address. (Name can be any word.)
+* Use the live app [here](https://infinite-plateau-90326.herokuapp.com/). Open a new list by adding a "/name" extension to the end of the web address. (Name can be any word.)
 * Database is hosted on Atlas and the app is deployed via Heroku.
 
 <img src="https://user-images.githubusercontent.com/38020231/204063841-446bb75f-6b99-44ef-849a-99be59267af1.png" width="700">
