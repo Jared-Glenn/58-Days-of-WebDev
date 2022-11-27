@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 35 - Blog Website v.3]
+* Upgraded the Blog Website with a Mongoose Database.
+* Altered the connections so the site still works as it did with an internal array.
+* Blog posts are now stored externally and will be maintained, regardless of the server status.
+
+<img src="https://user-images.githubusercontent.com/38020231/204126541-a414468f-dee4-494b-a7d7-a845d83e8681.png" width="700">
+<img src="https://user-images.githubusercontent.com/38020231/204126542-52088035-5a4b-4111-a5a1-2947015306f0.png" width="700">
+
+
+
 ## [Day 34 - To-Do List v4](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/034_todo_list_v4)
 * Web deployment of the To-Do App.
 * Use the live app [here](https://infinite-plateau-90326.herokuapp.com/). Open a new list by adding a "/name" extension to the end of the web address. (Name can be any word.)
