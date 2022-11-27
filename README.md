@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 35 - Blog Website v.3]
+## [Day 35 - Blog Website v.3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/035_blog_website_v3)
 * Upgraded the Blog Website with a Mongoose Database.
 * Altered the connections so the site still works as it did with an internal array.
 * Blog posts are now stored externally and will be maintained, regardless of the server status.
