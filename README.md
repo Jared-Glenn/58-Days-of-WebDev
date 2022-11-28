@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [ Day 36 - Wiki API]
+## [Day 36 - Wiki API]()
 * Created a Wiki API using Node Js, including several forms of functionality.
 * Includes all CRUD functionality and options to find all, find one, both patch and put options, and the option to delete one or all articles.
 * Built using the newest versions of the applications, necessitating hours of practice at reading and understanding documentation.
