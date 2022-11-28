@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 37 - Blog Authentication, Levels 1-3]()
+* Worked with a standard text password, encrypted password, .env stored password, and hashed password.
+* Wrote the node.js code to make each of these passwords work properly and be stored.
+* Investigated how to create stronger passwords and hashing to protect those passwords.
+
+<img src="https://user-images.githubusercontent.com/38020231/204402890-a5647f4a-f190-4c01-9970-0e4c6c86391e.png" width="700">
+<img src="https://user-images.githubusercontent.com/38020231/204402897-749e472b-22a2-4452-a6da-b899b04b3da0.png" width="700">
+
+
+
 ## [Day 36 - Wiki API](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/036_wiki_api)
 * Created a Wiki API using Node Js, including several forms of functionality.
 * Includes all CRUD functionality and options to find all, find one, both patch and put options, and the option to delete one or all articles.
