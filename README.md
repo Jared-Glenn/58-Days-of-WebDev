@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 37 - Blog Authentication, Levels 1-3]()
+## [Day 37 - Blog Authentication, Levels 1-3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/037_blog_authentication_levels_1-3)
 * Worked with a standard text password, encrypted password, .env stored password, and hashed password.
 * Wrote the node.js code to make each of these passwords work properly and be stored.
 * Investigated how to create stronger passwords and hashing to protect those passwords.
