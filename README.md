@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 36 - Wiki API]()
+* Created a Wiki API using Node Js, including several forms of functionality.
+* Includes all CRUD functionality and options to find all, find one, both patch and put options, and the option to delete one or all articles.
+* Built using the newest versions of the applications, necessitating hours of practice at reading and understanding documentation.
+
+<img src="https://user-images.githubusercontent.com/38020231/204197788-d4821251-4517-41c8-9f94-b89c484fc0c3.png" width="700">
+
+
+
 ## [Day 35 - Blog Website v.3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/035_blog_website_v3)
 * Upgraded the Blog Website with a Mongoose Database.
 * Altered the connections so the site still works as it did with an internal array.
