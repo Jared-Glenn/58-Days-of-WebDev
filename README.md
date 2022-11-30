@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 38 - Blog Authentication, Levels 4-5]()
+* Learned to salt each of the hashed passwords with md5 in Node Js.
+* Also tracked sessions for each user, allowing for users to access secret pages, even after navigating away.
+* Created a logout method to end the users' session, as well as a button to facilitate that action.
+
+<img src="https://user-images.githubusercontent.com/38020231/204721204-948ff100-c485-4a8f-8931-8fa059f77b37.png" width="700">
+
+
+
 ## [Day 37 - Blog Authentication, Levels 1-3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/037_blog_authentication_levels_1-3)
 * Worked with a standard text password, encrypted password, .env stored password, and hashed password.
 * Wrote the node.js code to make each of these passwords work properly and be stored.
