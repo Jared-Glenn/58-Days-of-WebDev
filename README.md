@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 39 - Blog Authentication, Level 6]()
+* Created an  OAuth connection with Google and Facebook for faster and more secure authentication.
+* Integrated that technology into the site, which also manages the users' sessions securely.
+* Added functionality that allows users to post their secrets for others to view without revealing their identity.
+
+<img src="https://user-images.githubusercontent.com/38020231/204980602-afbfaed9-4166-4af3-8b65-a4082e6a124c.gif" width="700">
+
+
+
 ## [Day 38 - Blog Authentication, Levels 4-5](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/038_blog_authentication_levels_4-5)
 * Learned to salt each of the hashed passwords with md5 in Node Js.
 * Also tracked sessions for each user, allowing for users to access secret pages, even after navigating away.
