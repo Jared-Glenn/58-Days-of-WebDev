@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 40 - React JS Composition and Styling]()
+## [Day 40 - React JS Composition and Styling](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/040_react_js_composition_and_styling)
 * Started working with React JS by learning JSX, its syntax and uses of the library.
 * Practiced integrating Javascript scripts in JSX.
 * Learned how to use CSS styling with JSX and React.js.
