@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 40 - React JS Composition and Styling]()
+* Started working with React JS by learning JSX, its syntax and uses of the library.
+* Practiced integrating Javascript scripts in JSX.
+* Learned how to use CSS styling with JSX and React.js.
+
+<img src="https://user-images.githubusercontent.com/38020231/205232504-d8ecab43-d54e-46ac-9eef-819eb59d45d3.png" width="700">
+<img src="https://user-images.githubusercontent.com/38020231/205232513-bef5482a-e8de-4d19-a38d-cf4845f59a1b.png" width="700">
+
+
+
 ## [Day 39 - Blog Authentication, Level 6](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/039_blog_authentication_level_6)
 * Created an  OAuth connection with Google and Facebook for faster and more secure authentication.
 * Integrated that technology into the site, which also manages the users' sessions securely.
