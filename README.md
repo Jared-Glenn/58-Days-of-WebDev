@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 42 - Emojipedia]()
+## [Day 42 - Emojipedia](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/042_emojipedia)
 * Continued practice with React js with two smaller projects.
 * Styled a Contacts page with reusable elements that can iterate over a list of contacts and their information.
 * Created a list of emojis and their meanings with React js so new items can be seemlessly added or removed by changing the accompanying list.
