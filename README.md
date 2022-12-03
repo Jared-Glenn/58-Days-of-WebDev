@@ -2,6 +2,16 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 42 - Emojipedia]()
+* Continued practice with React js with two smaller projects.
+* Styled a Contacts page with reusable elements that can iterate over a list of contacts and their information.
+* Created a list of emojis and their meanings with React js so new items can be seemlessly added or removed by changing the accompanying list.
+
+<img src="https://user-images.githubusercontent.com/38020231/205451683-04c38d47-5034-4557-aaca-426807bf7f08.png" width="700">
+<img src="https://user-images.githubusercontent.com/38020231/205451685-c8c18719-ee02-43a9-871c-99170058b126.png" width="700">
+
+
+
 ## [Day 41 - Keeper v.1](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/041_keeper_v1)
 * Practiced methods for organizing a React App with naming conventions, imports, exports, and file organization.
 * Created the beginning of the Keeper App with each of these methods as a React App.
