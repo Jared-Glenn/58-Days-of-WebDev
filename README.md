@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 41 - Keeper v.1]()
+* Practiced methods for organizing a React App with naming conventions, imports, exports, and file organization.
+* Created the beginning of the Keeper App with each of these methods as a React App.
+* Keeper is meant to be a Google Keeps clone and does not yet have any functionality.
+
+<img src="https://user-images.githubusercontent.com/38020231/205442333-d403eb79-f8aa-42ee-a6d2-cb033de5b6d2.png" width="700">
+
+
+
 ## [Day 40 - React JS Composition and Styling](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/040_react_js_composition_and_styling)
 * Started working with React JS by learning JSX, its syntax and uses of the library.
 * Practiced integrating Javascript scripts in JSX.
