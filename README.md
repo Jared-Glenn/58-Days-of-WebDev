@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 43 - Keeper v2]()
+## [Day 43 - Keeper v.2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/043_keeper_v2)
 * Learned and practiced Map, Filter, FilterId, and Reduce for use in simplifying React js code.
 * Worked with Arrow Functions for cleaning and improving my code. Used those skills to update the Keeper App so it can easily render notes as reusable components.
 * Learned about Ternary Operators so I could conditionally render webpages based on given conditions. Also used the Logical && in React code.
