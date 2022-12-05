@@ -2,6 +2,17 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 44 - Digital Clock]()
+* Learned to work with States in React and created a Count Tracker with increase and decrease iterators using this system.
+* Created a Digital Clock app that, at first, updated at the press of a button, and then updated on its own every 1000 milliseconds.
+* Learned and practiced destructuring both simple and complex structures, such as lists, dictionaries, and nested dictionaries.
+
+<img src="https://user-images.githubusercontent.com/38020231/205727242-4e9561e7-7b41-43f5-812d-346bad8f0a49.gif" width="700">
+<img src="https://user-images.githubusercontent.com/38020231/205727248-dbcda73d-cefe-4127-b746-39141e0adfdf.png" width="700">
+<img src="https://user-images.githubusercontent.com/38020231/205727260-d272b1f1-e78e-4cb0-9d94-57b7bd2a7630.png" width="700">
+
+
+
 ## [Day 43 - Keeper v.2](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/043_keeper_v2)
 * Learned and practiced Map, Filter, FilterId, and Reduce for use in simplifying React js code.
 * Worked with Arrow Functions for cleaning and improving my code. Used those skills to update the Keeper App so it can easily render notes as reusable components.
