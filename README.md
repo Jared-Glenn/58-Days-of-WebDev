@@ -2,6 +2,15 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 45 - To-Do List, React Edition]()
+* Learned to handle events, forms, and states with React js.
+* Practiced managing complex states to cut down on superfluous code.
+* Created a to-do app using React. Items can be added to an ongoing list via an Add button.
+
+<img src="https://user-images.githubusercontent.com/38020231/206155912-51aec030-7cb5-490e-b126-22e4efcfe956.gif" width="700">
+
+
+
 ## [Day 44 - Digital Clock](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/044_digital_clock)
 * Learned to work with States in React and created a Count Tracker with increase and decrease iterators using this system.
 * Created a Digital Clock app that, at first, updated at the press of a button, and then updated on its own every 1000 milliseconds.
