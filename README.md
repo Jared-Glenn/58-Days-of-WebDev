@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 46 - Keeper v.3]()
+## [Day 46 - Keeper v.3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/046_keeper_v3)
 * Completed the Keeper App complete with note keeping functionality and delete capabilities.
 * Included a Floating Action Button (FAB) via MUI to allow the button to change depending on if the user is adding a note or not.
 * Added a background (Cubes) via Transparent Textures for style.
