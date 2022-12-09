@@ -2,7 +2,7 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
-## [Day 47 - Web3]
+## [Day 47 - Web3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/047_web3)
 * Learned about the Blockchain - it's purpose, uses, and implementation.
 * Installed Ubuntu and set up a project.
 
