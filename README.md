@@ -2,6 +2,14 @@
 Projects created during The Complete 2022 Web Development Bootcamp course with Angela Yu.
 
 
+## [Day 47 - Web3]
+* Learned about the Blockchain - it's purpose, uses, and implementation.
+* Installed Ubuntu and set up a project.
+
+<img src="https://user-images.githubusercontent.com/38020231/206707095-e8f8f887-7937-4241-b4b9-2790f0de0aea.png" width="700">
+
+
+
 ## [Day 46 - Keeper v.3](https://github.com/Jared-Glenn/58-Days-of-WebDev/tree/main/Days%2030-58/046_keeper_v3)
 * Completed the Keeper App complete with note keeping functionality and delete capabilities.
 * Included a Floating Action Button (FAB) via MUI to allow the button to change depending on if the user is adding a note or not.
